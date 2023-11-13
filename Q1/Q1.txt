@@ -1,0 +1,10 @@
+
+
+
+        1. sudo snap install node --classic
+
+        2. Download VS Code and install directly.
+
+        3. To install typescript:
+
+           sudo npm install -g typescript
