@@ -3,5 +3,11 @@
 //SOLUTION
 
 let myName: string = "Muhammad Tahir Iqbal";
-console.log("*" + "\t"+myName+"\t" + "*")
-console.log("\n"+myName)
+// using concatenation
+console.log("*" + "\t" + myName + "\t" + "*");
+console.log("\n" + myName);
+
+//using Template Literals
+console.log(`        ${myName}
+
+${myName}`);
