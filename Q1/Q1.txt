@@ -1,9 +1,9 @@
-        These commands are to install on Linux OS
 
+        This is to install on Linux OS.
 
         1. sudo snap install node --classic
 
-        2. Download the VS Code and install it directly.
+        2. Download VS Code and install directly.
 
         3. To install typescript:
 
