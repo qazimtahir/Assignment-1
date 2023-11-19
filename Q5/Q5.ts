@@ -3,5 +3,10 @@
 //SOLUTION
 
 let famous_person: string = "William Shakespeare";
-let message: string = '"There is nothing either good or bad, but thinking makes it so."';
-console.log(famous_person + " said in Hemlet, "+ message)
+let message: string =
+  '"There is nothing either good or bad, but thinking makes it so."';
+// results using concatenation
+console.log(famous_person + " said in Hemlet, " + message);
+
+// results using Template Literals
+console.log(`${famous_person} said in Hemlet, ${message}`);

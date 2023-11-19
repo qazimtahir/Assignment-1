@@ -3,5 +3,16 @@
 //Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 
 // SOLUTIONS
+//results using concatenation
 
-console.log("William Shakespeare once said in Hamlet, "+'"'+ "There is nothing either good or bad, but thinking makes it so." +'"')
+console.log(
+  "William Shakespeare once said in Hamlet, " +
+    '"' +
+    "There is nothing either good or bad, but thinking makes it so." +
+    '"'
+);
+
+// Same results using Template Literals
+console.log(
+  `William Shakespeare once said in Hamlet, "There is nothing either good or bad, but thinking makes it so."`
+);
