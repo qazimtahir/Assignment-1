@@ -5,5 +5,5 @@
 let myFavouriteNumber: number = 71;
 console.log("My favourite number is " + myFavouriteNumber);
 
-// results using Template Literals
+// same print results using Template Literals
 console.log(`My favourite number is ${myFavouriteNumber}`);
