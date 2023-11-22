@@ -22,4 +22,13 @@ These commands are for linux operating system.
         The answer is version 5.2.2
 
         Congratulations, we are ready to fly....:)
+
+        
+        
+        Second method to install nodejs
+
+        1-      sudo apt update
+        2-      sudo apt install nodejs
+        3-      node -v
+        4-      sudo apt install npm
 */

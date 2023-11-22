@@ -8,3 +8,10 @@
         3. To install typescript:
 
            sudo npm install -g typescript
+
+// Second method to install nodejs
+
+        1-      sudo apt update
+        2-      sudo apt install nodejs
+        3-      node -v
+        4-      sudo apt install npm
